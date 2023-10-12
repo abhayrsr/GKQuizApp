@@ -15,8 +15,6 @@ if(ready == "yes"){
   return;
 }
 
-console.log(`\n`);
-
 console.log('Rules & Instructions: ');
 console.log(`1. ${username}, There are 10 Questions on India and all are Compulsory.`);
 console.log(`2. You will get 2 points on each Right Answer.`);
